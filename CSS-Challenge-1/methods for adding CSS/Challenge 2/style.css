@@ -1,0 +1,19 @@
+.alert-text {
+    background-color: lightpink;
+    font-family: Verdana;
+}
+#alert {
+    color: blue;
+    font-size: 36px;
+
+}
+.one-text {
+    background-color: lightpink;
+    font-family: Verdana;
+    font-size: 24px;
+}
+#one {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold ;
+}
